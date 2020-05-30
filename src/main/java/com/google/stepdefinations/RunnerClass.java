@@ -15,6 +15,7 @@ public class RunnerClass {
 	@AfterClass
 	public static void setup()
 	{
+		
 	/*Reporter.loadXMLConfig(new File("src/test/resources/extent-config.xml"));
 	//Reporter.setSystemInfo("Test User", System.getProperty("user.name"));
 	Reporter.setSystemInfo("User Name", "AJ");
